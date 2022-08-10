@@ -1,0 +1,15 @@
+C:\myWork\MaTran\bin\Debug\net6.0\MaTran.exe
+C:\myWork\MaTran\bin\Debug\net6.0\MaTran.deps.json
+C:\myWork\MaTran\bin\Debug\net6.0\MaTran.runtimeconfig.json
+C:\myWork\MaTran\bin\Debug\net6.0\MaTran.dll
+C:\myWork\MaTran\bin\Debug\net6.0\MaTran.pdb
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.csproj.AssemblyReference.cache
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.GeneratedMSBuildEditorConfig.editorconfig
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.AssemblyInfoInputs.cache
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.AssemblyInfo.cs
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.csproj.CoreCompileInputs.cache
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.dll
+C:\myWork\MaTran\obj\Debug\net6.0\refint\MaTran.dll
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.pdb
+C:\myWork\MaTran\obj\Debug\net6.0\MaTran.genruntimeconfig.cache
+C:\myWork\MaTran\obj\Debug\net6.0\ref\MaTran.dll
