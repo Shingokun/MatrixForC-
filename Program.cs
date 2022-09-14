@@ -11,7 +11,7 @@ namespace MaTran
         static void Main(string[] args)
         {
             int maxValue = 100;
-        int minValue = 0;
+        int minValue = 10;
         bool Checkdong;
         bool Checkcot;
         int dong;
